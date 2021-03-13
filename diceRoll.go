@@ -1,4 +1,4 @@
-package pkg
+package Library
 
 import (
 	"math/rand"
