@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func rollDice() int {
+func Roll() int {
 	rand.Seed(time.Now().UnixNano())
 	min := 1
 	max := 6
